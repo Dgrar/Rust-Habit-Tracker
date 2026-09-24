@@ -1,1 +1,0 @@
-C:\Users\Roberto\Documents\Código\RUST\Proyectos_begginer\Habits_tracker_CLI\target\debug\libhabit_storage.rlib: C:\Users\Roberto\Documents\Código\RUST\Proyectos_begginer\Habits_tracker_CLI\habit_core\src\lib.rs C:\Users\Roberto\Documents\Código\RUST\Proyectos_begginer\Habits_tracker_CLI\habit_storage\src\lib.rs
