@@ -1,0 +1,8 @@
+[package]
+name = "habit_core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rust-analyzer = "0.0.1"
+serde = { version = "1.0.229", features = ["derive"] }
